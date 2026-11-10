@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raeesa2627/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raeesa2627/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/raeesa2627/Leetcode-DSA/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/raeesa2627/Leetcode-DSA/tree/master/1386-cinema-seat-allocation) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/raeesa2627/Leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/raeesa2627/Leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/raeesa2627/Leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
