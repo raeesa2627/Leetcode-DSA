@@ -10,7 +10,7 @@ class Solution {
             rank[sa[i]] = i;
         }
 
-        // Build LCP array using Kasai's algorithm
+        
         int k = 0;
 
         for (int i = 0; i < n; i++) {
@@ -35,7 +35,6 @@ class Solution {
 
         int ans = n;
 
-        // Find the shortest unique subarray
         for (int r = 0; r < n; r++) {
             int maxLcp = lcp[r];
 
@@ -61,7 +60,6 @@ class Solution {
         int[] c = new int[N];
         int[] cnt = new int[Math.max(N, Arrays.stream(nums).max().getAsInt() + 2)];
 
-        // Initial sorting
         for (int i = 0; i < N; i++) {
             int key = (i == n) ? 0 : nums[i] + 1;
             cnt[key]++;
