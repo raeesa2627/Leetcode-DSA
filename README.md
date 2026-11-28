@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/raeesa2627/Leetcode-DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/raeesa2627/Leetcode-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -363,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3934-smallest-unique-subarray) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/raeesa2627/Leetcode-DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
